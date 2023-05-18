@@ -85,8 +85,8 @@ const medianAge = sortedAges.length % 2 === 0 ? (sortedAges[middleIndex - 1] + s
 // console.log('3. Contacts over the age of 50:', contactsOver50);
 // console.log('4. First ten contacts alphabetically:', firstTenContacts);
 // console.log('5. Oldest person\'s name:', oldestPersonName);
-//console.log('6. Contact ID of Isabella Burke:', isabellaId);
+// console.log('6. Contact ID of Isabella Burke:', isabellaId);
 //console.log('7. Contacts with split names:', contactsWithSplitNames);
-//console.log('8. Contacts with friend objects:', JSON.stringify(contactsWithFriendObjects, null, 2));
+// console.log('8. Contacts with friend objects:', JSON.stringify(contactsWithFriendObjects, null, 2));
 // console.log('9. Average age of contacts:', averageAge);
 // console.log('10. Median age of contacts:', medianAge);
